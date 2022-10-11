@@ -3,6 +3,9 @@ import NewCost from "./components/NewCost/NewCost";
 
 
 //test
+//test
+
+//test for github
 
 const App = () => {
     const costs = [
