@@ -1,0 +1,9 @@
+.diagram {
+    padding: 1rem;
+    border-radius: 12px;
+    background-color: rgba(38, 128, 191, 0.6);
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    height: 10rem;
+}

@@ -4,7 +4,7 @@
     align-items: center;
     padding: 0.5rem;
     margin: 1rem 0;
-    background-color: #bd8025;
+    background-color: rgba(38, 128, 191, 0.6);
 }
 
 .cost-item__description {
@@ -29,7 +29,7 @@
     font-size: 1rem;
     font-weight: bold;
     color: #fefae1;
-    background-color: #2a5b84;
+    background-color: rgb(42, 91, 132);
     border: 1px solid white;
     padding: 0.5rem;
     border-radius: 12px;
@@ -44,11 +44,11 @@
     }
 
     .cost-item__description h2 {
-        font-size: 1.25rem;
+        font-size: 1.55rem;
     }
 
     .cost-item__price {
-        font-size: 1.25rem;
+        font-size: 1.45rem;
         padding: 0.5rem 1.5rem;
     }
 }
