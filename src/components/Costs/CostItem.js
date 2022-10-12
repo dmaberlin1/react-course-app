@@ -17,6 +17,7 @@ const CostItem = (props) => {
                 </Card>
             </li>
         </>
+        
     )
 }
 
